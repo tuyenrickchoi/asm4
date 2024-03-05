@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="login_your_account_string">Login your account</string>
+	<string name="user_string">User</string>
+	<string name="username_string">Username</string>
+	<string name="password_string">Password</string>
+	<string name="login_string">Login</string>
+</resources>
